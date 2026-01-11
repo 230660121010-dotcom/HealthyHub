@@ -11,14 +11,6 @@ HealthyHub adalah sistem informasi kesehatan berbasis web yang menghubungkan pas
 
 ---
 
-## 📸 Tampilan Aplikasi (Screenshots)
-
-| Halaman Utama | Dashboard Admin |
-|:---:|:---:|
-| ![Home](https://placehold.co/600x400/00b4d8/ffffff?text=Screenshot+Home) | ![Admin](https://placehold.co/600x400/1e293b/ffffff?text=Screenshot+Admin) |
-
----
-
 ## ✨ Fitur Unggulan
 
 ### 👤 Sisi Pengguna (User/Pasien)
@@ -96,16 +88,6 @@ Gunakan akun berikut untuk pengujian sistem:
 - **`doctors`**: Menyimpan daftar dokter dan spesialisasi.
 - **`articles`**: Menyimpan konten blog kesehatan.
 - **`appointments`**: Menyimpan data janji temu (berelasi dengan tabel `doctors`).
-
----
-
-## 👨‍💻 Author
-
-Dibuat dengan ❤️ oleh:
-- **Nama:** [Nama Kamu]
-- **NIM:** [NIM Kamu]
-- **Kampus:** Universitas Sebelas April
-- **Jurusan:** Informatika
 
 ---
 
